@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Subhankar Guchait, a frontend developer and web designer who loves creating beautiful and user-friendly websites.
+I'm <h1>Subhankar Guchait</h1>, a frontend developer and web designer who loves creating beautiful and user-friendly websites.
 
 ## About me
 
