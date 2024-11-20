@@ -23,7 +23,7 @@ You can see more of my work on my [portfolio page](https://example.com) or on my
 ## Contact me
 
 If you want to know more about me or my projects,
-feel free to send me an [Email](mailto:guchaitsubhankar@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/subhankarguchait/) [Twitter](https://twitter.com/subhaguchait)
+feel free to send me an [Email](mailto:guchaitsubhankar@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/subhankarguchait/) [Twitter](https://twitter.com/subhaguchait)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=subha-guchait&show_icons=true&theme=radical)
 
