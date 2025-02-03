@@ -4,7 +4,7 @@
 
 ## About me
 
-- 🎓 I'm currently pursuing my B.Tech degree in Mechanical Engineering from Swami Vivekananda Institute of Science and Technology
+- 🎓 Mechanical Engineering Graduate from Swami Vivekananda Institute of Science and Technology.
 - 💻 I have experience with HTML, CSS, JavaScript
 <!-- - 🚀 I have built over 50 websites for clients ranging from small businesses to e-commerce platforms -->
 - 🌱 I'm currently learning React and Api
